@@ -1,0 +1,12 @@
+{
+  "name": "2-fs-module",
+  "version": "1.0.0",
+  "description": "file writing and reading",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ayush Pasi",
+  "license": "ISC"
+}
